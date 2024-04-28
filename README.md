@@ -1,3 +1,2 @@
-# Portfolio
-
-This ia a portfolio site about Me ! which is developed in HTML, CSS & JavaScript
+# Netflix Clone Website
+This is a clone website of Netflix created by using HTML, CSS, JavaScript.
